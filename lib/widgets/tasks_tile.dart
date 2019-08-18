@@ -9,9 +9,8 @@ class TasksTile extends StatelessWidget {
       title: Text('This is a task.'),
       trailing: Checkbox(
         value: checkbox,
-        onChanged: (value) {
-          value = true;
-          checkbox = value;
+        onChanged: (checkbox) {
+          checkbox = true;
         },
       ),
     );
