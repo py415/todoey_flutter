@@ -18,6 +18,10 @@ class TasksList extends StatelessWidget {
                 // Check off tasks
                 taskData.updateTask(task);
               },
+              longPressCallback: () {
+                // Delete task with long press
+                taskData.deleteTask(task);
+              },
             );
           },
           itemCount: taskData.taskCount,
