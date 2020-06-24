@@ -23,12 +23,14 @@ Todoey is a to-do list app to keep track of all your tasks.
 
 Here's a GIF of how the app works:
 
-<img src="https://user-images.githubusercontent.com/35745973/84875990-8dfdc900-b03b-11ea-91c7-04df1b8477f1.gif" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/ios/flutter-ios-todoey.gif" width=250>
 
-<img src="https://user-images.githubusercontent.com/35745973/84875971-89391500-b03b-11ea-8f3a-c8f38edb9e73.gif" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/android/flutter-android-todoey.gif" width=250>
 
 ## Libraries
 
+- [cupertino_icons](https://github.com/flutter/cupertino_icons) - This is an asset repo containing the default set of icon assets used by Flutter's [Cupertino widgets](https://github.com/flutter/flutter/tree/master/packages/flutter/lib/src/cupertino).
+- [pedantic](https://github.com/dart-lang/pedantic) - Most of the recommended lints directly implement the guidelines set out in [Effective Dart](https://dart.dev/guides/language/effective-dart).
 - [provider](https://github.com/rrousselGit/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
 
 ## Credits
